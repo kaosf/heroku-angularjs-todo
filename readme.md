@@ -1,4 +1,4 @@
-http://ka-angularjs-todo.herokuapp.com/index.html
+http://ka-angularjs-todo.herokuapp.com
 
 ## Deploy
 
